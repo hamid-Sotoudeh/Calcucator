@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/calucator/calucator.iml" filepath="$PROJECT_DIR$/calucator/calucator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calucator/android/calucator_android.iml" filepath="$PROJECT_DIR$/calucator/android/calucator_android.iml" />
+    </modules>
+  </component>
+</project>
